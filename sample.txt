@@ -1,1 +1,2 @@
 Sample from master
+ edited in sample-update
